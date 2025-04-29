@@ -32,41 +32,41 @@ export default function HomeScreen() {
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
 
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>E-mail</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
 
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>Celular</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
       
       
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>Senha</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
 
       
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>Documento</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
 
       
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>Grupo</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
 
       
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>Cargo</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
       
-      <View style={{marginTop: 10, flexDirection:'column  '}}>
+      <View style={{marginTop: 10, flexDirection:'column'}}>
         <Text>Status</Text>
         <TextInput style={{backgroundColor: 'lightgray', padding: 10}}></TextInput>
       </View>
